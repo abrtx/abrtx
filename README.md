@@ -44,12 +44,12 @@ A .NET backend project demonstrating layered architecture, dependency inversion,
 ## Technical Expertise
 
 | Area               | Technologies                                      |
-| ------------------ | ------------------------------------------------- |
+|--------------------|---------------------------------------------------|
 | **Languages**      | C • C++ • C# • Python • Java                      |
 | **Backend**        | ASP.NET Core • REST APIs • SQL                    |
 | **Embedded**       | AVR • Hardware Abstraction Layer (HAL) • Robotics |
 | **Infrastructure** | Linux • Docker • Kubernetes                       |
-| **Databases**      | MySQL • PostgreSQL                                |
+| **Databases**      | Oracle • MySQL • PostgreSQL                       |
 
 ---
 
